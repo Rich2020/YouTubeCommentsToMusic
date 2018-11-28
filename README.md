@@ -1,5 +1,7 @@
 # YouTubeCommentsToMusic
 
+    Thank you to https://github.com/daviddeborin/88-Key-Virtual-Piano for his collection of piano notes.
+
 Written over a couple of days, this program was made for entertainment and education.
 Presently, it has the following features:
 
